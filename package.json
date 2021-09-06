@@ -12,7 +12,7 @@
     "@discordjs/opus": "^0.5.3",
     "amethyste-api": "^1.1.5",
     "anime-facts": "^4.3.8",
-    "axios": "^0.21.1",
+    "axios": "^0.21.3",
     "canvacord": "^5.2.1",
     "chalk": "^4.1.1",
     "common-tags": "^1.8.0",
